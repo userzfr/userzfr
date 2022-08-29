@@ -1,4 +1,4 @@
-### Discord Communautaire: dsc.gg/arkalis       Discord Fivem: dsc.gg/arkalisrp
+### Discord Communautaire: dsc.gg/arkalis - Discord Fivem: dsc.gg/arkalisrp
 
 ![status](https://dev.discordprofiles.me/badge/status/634442174305402883?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/634442174305402883)
