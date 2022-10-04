@@ -12,3 +12,6 @@
 [![spotify](https://dev.discordprofiles.me/badge/spotify/634442174305402883)](https://dev.discordprofiles.me/openspotify/634442174305402883)
 #
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Matdbx10&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+![GHstats](https://github-readme-stats-eight-theta.vercel.app/api?username=Matdbx10&show_icons=true&theme=react&include_all_commits=true&locale=fr)
+#
+![visiteur](https://profile-counter.glitch.me/PXgc/count.svg)
