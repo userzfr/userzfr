@@ -11,4 +11,4 @@
 #
 ![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonolanlan1007&show_icons=true&theme=onedark&locale=fr" alt="matdbx10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matdbx10&show_icons=true&theme=onedark&locale=fr&layout=compact" alt="matdbx10" /></p>
