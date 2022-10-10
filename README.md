@@ -10,5 +10,3 @@
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Matdbx10&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 #
 ![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matdbx10&show_icons=true&theme=onedark&locale=fr&layout=compact" alt="matdbx10" /></p>
