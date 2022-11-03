@@ -10,6 +10,6 @@
 ![Matdbx10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matdbx10&include_all_commits=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdbx10&layout=compact&theme=tokyonight)
 #
-[![Famous Script](https://github-readme-stats.vercel.app/api/pin/?username=Matdbx10&repo=menuAdmin)](https://github.com/anuraghazra/menuAdmin)
+[![Famous Script](https://github-readme-stats.vercel.app/api/pin/?username=Matdbx10&theme=tokyonight&repo=menuAdmin)](https://github.com/anuraghazra/menuAdmin)
 #
 ![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
