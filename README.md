@@ -1,5 +1,5 @@
+My Discord Server
 <br>
-
     🗞️ | https://dsc.gg/arkalis
 #
 ![status](https://dev.discordprofiles.me/badge/status/634442174305402883?simple=true)
