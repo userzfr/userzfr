@@ -11,4 +11,4 @@
 #
 ![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
 
-<iframe src="https://discord.com/widget?id=996791677287157791&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![discord](https://discord.com/widget?id=996791677287157791&theme=dark)
