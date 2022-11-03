@@ -7,7 +7,7 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/634442174305402883)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/634442174305402883)](https://dev.discordprofiles.me/openspotify/634442174305402883)
 #
-![Matdbx10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matdbx10&include_all_commits=true&show_icons=true&theme=radical)
+![Matdbx10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matdbx10&include_all_commits=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdbx10&layout=tokyonight)
 #
 ![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
