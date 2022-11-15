@@ -1,8 +1,7 @@
 My Discord Server:
 
-<br>
+<a href="https://discord.gg/uk7ww4QMn6" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/996791677287157791/widget.png"></a>
 
-    🗞️ | https://dsc.gg/arkalis
 #
 ![status](https://dev.discordprofiles.me/badge/status/634442174305402883?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/634442174305402883)
