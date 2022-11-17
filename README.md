@@ -14,9 +14,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 ## 📊 GitHub Stats :
-![Matdbx10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matdbx10&include_all_commits=true&show_icons=true&theme=dark)
+![Matdbx10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matdbx10&include_all_commits=true&show_icons=true&theme=dark&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoskalykA&theme=dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdbx10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdbx10&layout=compact&theme=dark&hide_border=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Matdbx10&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 ## ⭐️ Famous Script
