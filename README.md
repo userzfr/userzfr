@@ -1,6 +1,4 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/๖̶ζ͜͡Mat dbx 10#3476) 
-## 💻 My Discord Server
+## 🌐 My Discord Server
 <a href="https://discord.gg/uk7ww4QMn6" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/996791677287157791/widget.png"></a>
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
