@@ -1,4 +1,4 @@
-## My Discord Server:
+## 💻 My Discord Server:
 
 <a href="https://discord.gg/uk7ww4QMn6" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/996791677287157791/widget.png"></a>
 
@@ -17,6 +17,9 @@
 ![Matdbx10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matdbx10&include_all_commits=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdbx10&layout=compact&theme=tokyonight)
 #
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MoskalykA&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+## ⭐️ Famous Script
 [![Famous Script](https://github-readme-stats.vercel.app/api/pin/?username=Matdbx10&theme=tokyonight&repo=mAdmin)](https://github.com/Matdbx10/mAdmin)
 #
 ![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
