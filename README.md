@@ -14,9 +14,9 @@
 ```mermaid 
     graph TD;
     Dormir-->Coder;
-    Coder-->Manger;
-    Manger-->Ecole;
+    Coder-->Ecole;
     Ecole-->Manger;
+    Manger-->Ecole;
     Manger-->Coder;
     Coder-->Dormir;
 ```
