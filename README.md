@@ -1,8 +1,8 @@
-## Matdbx10 | Mathieu
+## 👤 Matdbx10 | Mathieu
 
-<p> Mon prénom est Mathieu. ✨ <br> 
-Je travaille comme Directeur au sein du serveur Arkalis depuis maintenant 2 ans. 💡 <br> 
-Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
+<p> Mon prénom est Mathieu. 🧭 <br> 
+Je travaille comme Directeur au sein du serveur Arkalis depuis maintenant 2 ans. 💼 <br> 
+Je suis Développeur depuis maintenant plus de 2 ans ! 👨‍💻</p>
 
 ## 🌐 My Discord Server
 
