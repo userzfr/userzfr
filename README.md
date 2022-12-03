@@ -15,7 +15,7 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 👨‍💻</p>
                                                    
                                                   Ｄ Ｓ Ｃ ． Ｇ Ｇ ／ Ａ Ｒ Ｋ Ａ Ｌ Ｉ Ｓ 
 
- <a href="https://discord.gg/uk7ww4QMn6" title=""><img alt="Discord Status" src="[https://discordapp.com/api/guilds/996791677287157791/widget.png](https://discord.com/widget?id=996791677287157791&theme=dark)"></a>
+ <a href="https://discord.gg/uk7ww4QMn6" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/996791677287157791/widget.png"></a>
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ## 📊 GitHub Stats
