@@ -17,7 +17,7 @@
     Coder-->Ecole;
     Ecole-->Manger;
     Manger-->Ecole;
-    Manger-->Coder;
+    Ecole-->Coder;
     Coder-->Dormir;
 ```
 #
