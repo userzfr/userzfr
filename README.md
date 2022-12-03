@@ -1,3 +1,9 @@
+<h1>Matdbx10 | Mathieu  </h1>
+
+<p> Mon prénom est Mathieu ✨ <br> 
+Je travaille comme gérant et fondateur au sein du serveur SINIXDEV depuis maintenant 2 ans. 💡 <br> 
+Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
+
 ## 🌐 My Discord Server
 <a href="https://discord.gg/uk7ww4QMn6" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/996791677287157791/widget.png"></a>
 ## 💻 Tech Stack:
