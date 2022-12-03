@@ -10,5 +10,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=Matdbx10&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 ## ⭐️ Famous Script
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Matdbx10&theme=dark&repo=mAdmin&hide_border=true)
+## ⏰ My time
+```mermaid 
+    graph TD;
+    Dormir-->Coder;
+    Coder-->Manger;
+    Manger-->Ecole;
+    Ecole-->Manger;
+    Manger-->Coder;
+    Coder-->Dormir;
+```
 #
-![visiteur](https://profile-counter.glitch.me/Matdbx10/count.svg)
+![](https://profile-counter.glitch.me/Matdbx10/count.svg)
