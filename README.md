@@ -32,7 +32,7 @@ Je suis Développeur depuis maintenant plus de 4 ans ! 👨‍💻</p>
     Dormir-->Coder;
     Coder-->École;
     École-->Manger;
-    Manger-->Ecole;
+    Manger-->École;
     École-->Coder;
     Coder-->Dormir;
 ```
