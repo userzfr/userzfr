@@ -30,10 +30,10 @@ Je suis Développeur depuis maintenant plus de 4 ans ! 👨‍💻</p>
 ```mermaid 
     graph TD;
     Dormir-->Coder;
-    Coder-->Ecole;
-    Ecole-->Manger;
+    Coder-->École;
+    École-->Manger;
     Manger-->Ecole;
-    Ecole-->Coder;
+    École-->Coder;
     Coder-->Dormir;
 ```
 ## 👀 Profile view
