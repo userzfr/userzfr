@@ -7,7 +7,7 @@
 - **Lua** for FiveM.
 
 ## 💻 Work at
-- [@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper +
+- [@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper
 
 ## 📌 Contact
 - **Arkalis** » [Discord](https://discord.gg/uk7ww4QMn6)
