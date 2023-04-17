@@ -10,5 +10,5 @@
 - [@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper +
 
 ## 📌 Contact
-- **Arkalis** » [Discord](https://discord.gg/txgs7xqxrE)
+- **Arkalis** » [Discord](https://discord.gg/uk7ww4QMn6)
 - **Discord** » [๖̶ζ͜͡Mat dbx 10#3476](https://discord.com/users/634442174305402883/)
