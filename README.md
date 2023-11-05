@@ -26,5 +26,6 @@
 
 <h2 align="center">📌 Contact me </h2>
 <div align="center">
-- </b>Arkalis</b> » [Discord](https://discord.gg/uk7ww4QMn6)
-- </b>Discord</b> » [Matdbx10](https://discord.com/users/634442174305402883/)
+<p>By <a href="https://discord.gg/uk7ww4QMn6">Discord</a></</p>
+<img src="https://lanyard-profile-readme.vercel.app/api/634442174305402883" align="center">
+</div>
