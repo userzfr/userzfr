@@ -26,5 +26,5 @@
 
 <h2 align="center">📌 Contact me </h2>
 <div align="center">
-- **Arkalis** » [Discord](https://discord.gg/uk7ww4QMn6)
-- **Discord** » [Matdbx10](https://discord.com/users/634442174305402883/)
+- </b>Arkalis</b> » [Discord](https://discord.gg/uk7ww4QMn6)
+- </b>Discord** » [Matdbx10](https://discord.com/users/634442174305402883/)
