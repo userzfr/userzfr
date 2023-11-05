@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello, I'm @Matdbx10 👋</h1>
-» I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **cybersecurity engineer** !
-
+<p align="center">
+» I'm a </b>developer</b> and </b>moderator</b> on </u>Discord</u>, currently in high school to become a </b>cybersecurity engineer</b> !
+</p>
 <h2 align="center">📡 Dev Skill <h2>
 <h3 align="center">Languages </h3>
 <p align="center">
