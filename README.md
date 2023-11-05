@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/visual studio code%20-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <div align="center">
   
 ## 💻 Work at
