@@ -2,9 +2,23 @@
 » I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **cybersecurity engineer** !
 
 ## 📡 Dev Skill
-- **Javascript** for Discord bot and FiveM.
-- **HTML/CSS** for ui.
-- **Lua** for FiveM.
+
+### Languages
+- **Javascript** 
+- **HTML**
+- **CSS** 
+- **Lua** 
+- **Python**
+
+### Frameworks 
+- **Discord.js**
+- **RageUI**
+- **ESX**
+
+### Tools 
+- **Visual Studio Code**
+- **GIT**
+- **Node.js**
 
 ## 💻 Work at
 - [@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper
