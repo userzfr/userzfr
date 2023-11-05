@@ -1,5 +1,6 @@
 <div align="center">
 # Hello, I'm @Matdbx10 👋
+<div align="center">
 » I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **cybersecurity engineer** !
 <div align="center">
 ## 📡 Dev Skill
