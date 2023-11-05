@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello, I'm @Matdbx10 👋</h1>
-<p align="center">
-» I'm a </b>developer</b> and </b>moderator</b> on </u>Discord</u>, currently in high school to become a </b>cybersecurity engineer</b> !
-</p>
+<p align="center">» I'm a </b>developer</b> and </b>moderator</b> on </u>Discord</u>, currently in high school to become a </b>cybersecurity engineer</b> ! </p>
 <h2 align="center">📡 Dev Skill <h2>
 <h3 align="center">Languages </h3>
 <p align="center">
@@ -26,6 +24,7 @@
 ## 💻 Work at
 - [@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper
 
-## 📌 Contact
+<h2 align="center">📌 Contact me </h2>
+<div align="center">
 - **Arkalis** » [Discord](https://discord.gg/uk7ww4QMn6)
 - **Discord** » [Matdbx10](https://discord.com/users/634442174305402883/)
