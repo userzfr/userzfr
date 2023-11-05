@@ -1,10 +1,8 @@
-<div align="center">
-# Hello, I'm @Matdbx10 👋
-<div align="center">
-» I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **cybersecurity engineer** !
-<div align="center">
-## 📡 Dev Skill
 
+<h1 align="center">Hello, I'm @Matdbx10 👋</h1>
+» I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **cybersecurity engineer** !
+
+<h2 align="center">📡 Dev Skill <h2>
 <h3 align="center">Languages </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
