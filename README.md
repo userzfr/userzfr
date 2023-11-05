@@ -3,6 +3,8 @@
 
 ## 📡 Dev Skill
 
+<h3 align="center">Languages </h3>
+<p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/lua%20-%23323330.svg?&style=for-the-badge&logo=lua&logoColor=%237575D0"/>
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23ffda4c"/>
@@ -20,7 +22,8 @@
   <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe photoshop%20-%23323330.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white">
-
+<div align="center">
+  
 ## 💻 Work at
 - [@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper
 
