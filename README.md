@@ -40,7 +40,6 @@ I'm <b>@Matdbx10</b>, a french and young developer
 <h2 align="center">📞 Contact me </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/@matdbx10%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="http://img.shields.io/badge/Matdbx10%20-%231c9af0.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </p>
 <h2 align="center"> Discord </h2>
 <img src="https://lanyard-profile-readme.vercel.app/api/634442174305402883" align="center">
