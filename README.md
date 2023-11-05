@@ -1,5 +1,5 @@
 # Hello, I'm @Matdbx10 👋
-» I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **professional developper** !
+» I'm a **developer** and **moderator** on __Discord__, currently in high school to become a **cybersecurity engineer** !
 
 ## 📡 Dev Skill
 - **Javascript** for Discord bot and FiveM.
