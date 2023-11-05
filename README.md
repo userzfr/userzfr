@@ -27,5 +27,6 @@
 <h2 align="center">📌 Contact me </h2>
 <div align="center">
 <a href="https://discord.gg/uk7ww4QMn6">Discord</a>
+<div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/634442174305402883" align="center">
-</div>
+
