@@ -22,7 +22,7 @@
 <div align="center">
   
 ## 💻 Work at
-[@Arkalis-Team](https://github.com/Arkalis-Team) » Founder & Developper
+[@Arkalis-Team](https://github.com/Arkalis-Team) » CEO
 
 <h2 align="center">📌 Contact me </h2>
 <div align="center">
